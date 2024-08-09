@@ -1,5 +1,11 @@
 # Testes automatizados com Cypress - Básico
 
+## Comentários de um QA que já possuia Conhecimento sobre o Cypress
+
+Conhecimento só agrega, mesmo sendo um conteúdo básico, trouxe conceitos e features do Cypress que não conhecia.
+Como por exemplo os comandos customizados do cypress e o trade off Page Objects X Custom Commands.
+Recomendo para qualquer pessoa que queira iniciar ou reciclar seus conhecimentos em Cypress.
+
 👋 Seja bem-vindo(a)!
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
